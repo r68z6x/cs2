@@ -1,134 +1,35 @@
 java c
-GEO 113: Economic Geography, Online
-Fall 2024: Syllabus and Schedule
-Syllabus Outline:
-Course Overview
-Course Goals and Learning Outcomes (Objectives)
-Course Netiquette
-Course Requirements
-Course Delivery and Organization
-Your instructor, course staﬀ, and course advisor Units
-Supplemental videos Review quizzes
-Assessments Quizzes
-Writing Assignment
-Mid-semester self evaluation Course Policies
-MSU privacy statement (and use of course materials) Academic honesty
-Plagiarism
-Spartan Code of Honor Attendance Policy
-Grading
-**Fall 2024: Semester: Schedule**
-Course Overview:
-Economic Geography is a survey of the global economy from a spatial perspective. In other words, this course explores the connections between economies, patterns of economic activity, and variation in levels of economic development and prosperity, in the context of location and place. There are three overarching course themes that will be woven throughout the material in this course: globalization, uneven development,and place. To gain a better understanding of these macro-level themes, we will  explore many aspects of the economy and economic activity, including the distribution of physical and human resources, transportation networks, business practices, new business formation, and where production and consumption take place, at multiple scales (local,regional, national, and so on). In these investigations, we will also consider the historical, cultural, and institutional context of economics and economic activity.
-Course Goals and Learning Outcomes (Objectives):
-Goals
-The purpose of this course is to:
-1.   Introduce students to the study of economic geography, including the approaches, methods, tools, and vocabulary.
-2.  Broaden students' knowledge and understanding of economics, economic systems, principles, and practices, at multiple scales, local, regional, national, and international.
-3.   Cultivate an appreciation of the diversity in economies, economic systems, activities, and landscapes around the world, and how those landscapes are interrelated.
-4.  Develop students' geographic perspective and provide opportunities for them to place local and global events in a geographic context (at various scales).
-5.  Foster critical thinking about local and global events and phenomena, and the assessment of    how those events might inﬂuence the economy, and economic activities, of locations based on levels of economic development and economic conditions there.
-Learning outcomes (objectives)
-By successfully completing this course, students will be able to:
-1.   Describe the spatial variation in diﬀerent components of economic development and activities and the factors that contribute to the pattern we observe on the landscape.
-2.  Describe some of the major political, social, and economic ideologies and systems, and the ways in which each has developed over time.
-3.  Deﬁne and use common terms associated with the study of economic geography from the more general, like place, scale, and state, to the more sub-discipline-speciﬁc terms, like neoliberalism, spatial ﬁx, and means of production.
-4.  Evaluate how the spatial distribution of economic activities and development changes over time and space and be able to discuss potential causes for that change.
-5.  Deﬁne globalization in the context of the economic landscape, describe the technological
-advancements andinstitutions that facilitate a global economy and provide some examples of connections,interactions, and exchanges that take place on a global scale.
-6.  Explain how globalization and capitalism contribute to patterns of uneven socioeconomic    development at various scales and be able to identify signs of uneven development on the landscape.
-7.   Explain the increasing importance of trade and foreign investment in the global economy and     the role of the state in facilitating trade and investment relationships with other countries and/or regions.
-8.  Describe the increasing importance of ﬁ nance in daily life and how that signiﬁcance can
-negatively impact the various actors in an economy including people, ﬁ rms, and governments.
-9.  Describe the negative impacts of economic development and activities can have on the
-physical and cultural environment at various scales and the role of producers and consumers in mitigating these negative impacts.
-10. Identify major events in the history of the global economy and explain the factors that
-contributed to the occurrence of those events and the eﬀects those events had on speciﬁc economies, locations and/or regions.
-11.  Research topics related to economic geography and draw connections between the material presented in the course to events and happenings that take place in the world as well as personal and life experiences.
-Note: If you wish to explore the basic geographic concepts covered in this course in more detail,
-we recommend taking Human Geography (Geo151), Physical Geography (Geo206), or a regional geography course, such as Regional Geography of the United States (Geo330), Africa (Geo338), Europe (Geo336), Asia-Paciﬁc (Geo227), Middle East (Geo339), and more, oﬀered by the
-Department of Geography, Environment, and Spatial Sciences at Michigan State University.
-Course Netiquette:
-An entirely online course is diﬀerent from a traditional, in-person course. In an online course, the only    contact you are likely to have with your instructor and others in the class is through email, social media, and chatrooms/discussion forums. In general, this system works very well and some students even prefer it  because they can ask questions freely without feeling intimidated. That same feeling of freedom can also be negative, particularly because some students feel that they can be disrespectful toward others. That said, most students make an eﬀort to respect others and their opinions. We ask that you make a special eﬀort to be one of these respectful people.
-Students who make inappropriate comments will be warned the ﬁrst time by email. Upon the secon代 写GEO 113: Economic Geography Fall 2024Python
-代做程序编程语言d oﬀense, you will be asked to discuss the matter with Juliegh Bookout. REMEMBER: THE ONLY BASIS YOUR INSTRUCTOR HAS FOR GRADING AND DISCUSSIONS ARE THROUGH YOUR WORDS ON A COMPUTER SCREEN. The instructor has no other context in which to understand your thinking.
-Therefore, it is important to be concise, informative, and polite while talking with your instructor and other students in the class.
-Course Requirements:
-●    Text:
-○    There is no required textbook for this course. A copy of the recommended text is on reserve in the MSU Main Library.
-●     Technology:
-○     Computer, high-speed internet connection, web browser (preferably Google Chrome or
-Mozilla Firefox), applications/plugins, etcetera (see the Help-Setup page for details). Use of other browsers may lead to D2L malfunctions.
-○     Each unit has associated videos to supplement the topics covered in the readings; you are responsible for the content in the videos. All of the videos are available on YouTube at no   cost.
-●     General:
-○    Complete each unit. You are responsible for watching videos and completing the readings, including all of the associated components.
-○   Take the quizzes and submit assignments on or before the scheduled due date/time.
-○    Check your mail.msu.edu account at least once daily for emails from your instructor and
-course staﬀ. If you need to, please set your Michigan State account to forward your emails to  an account that you do check frequently. All course emails will be sent to your Michigan State
-(mail.msu.edu) account only via the D2L learning management system.
-○    It is recommended that you spend the same amount of time on this course as you would on a  traditional lecture course; this includes both classroom time and study hours. According to the University, as a general rule, students budget a minimum of 9 hours attending and working on a 3-credit course each week during a full semester (even more during an abbreviated summer session).
-Course Delivery and Organization:
-While a team of Geography faculty and staﬀ manages the course, an instructor teaches your section. Moreover, this course is delivered through a series of online units that include lesson readings, news articles, map/images, videos, and other online media delivered through the D2L learning management system. Course assessments are accomplished through online quizzes and assignments.
-Your instructor, course staﬀ, and course advisor
-Juliegh Bookout is the instructor. Ms. Bookout is responsible for the day-to-day management of this course, including grading all assignments and assessments, responding to any content questions you may have, answering any questions about how to work through the course, and issuing ﬁnal grades.   ALL email correspondence should go to Juliegh Bookout.
-Meicheng Shen is a Ph.D. candidate in the Department of Geography, Environment, and Spatial Sciences at Michigan State University, and she will be assisting with the course this semester. You will occasionally receive emails about the course, the assignment in particular, from Ms. Chen.
-Units
-This course content consists of online units (left-hand column in the table below). All units can be found in D2L.
-Unit/Topic
-Introduction to Economic Geography
-- What is Economic Geography?
-- Place, Space, and Scale
-Approaches to Economic Geography
-- Early Perspectives in Economic Geography
-- Positivism, Spatial Analysis, and the Quantitative Revolution
-- Marxian Economics and the Geographical Political Economy
-- Modern Divisions of Thought in Economic Geography
-Geographies of Production
-- Driving Forces of Production
-- Spatial Division of Labor
-The State
-- Functions of the State
-- Varieties of Capitalism
-- New Regionalism
-Finance Part 1: Personal Finance and Financial Exclusion
-- Personal Finance
-- Uneven Geographies of Finance
-Finance Part 2: Evolution of the Global Financial System
-- Central Banks
-- Globalization of the Financial System
-- Financial Crises, Crashes, and Cycles
-- Financialization of the Economy
-Geographies of Development
-- Entities Involved in Economic Development
-- Measuring Development
-- Economic Growth versus Economic Development
-- History of Economic Development
-- Theories of Economic Development
-- The International Debt Crisis
-- Success of Economic Development Eﬀorts
-Global Production Networks
-- Commodity Chains
-- Global Production Networks
-- Investment, GPNs, and Regional Development Outcomes
-Urban Agglomeration, Innovation, and Creativity
-- Cities and Agglomeration
-- Knowledge Work and the Creative Class
-Economic Geography and the Environment
-- The Intergovernmental Panel on Climate Change
-- The Environment and Economic Development
-- Approaches to Economy-Nature-Society Relations
-- Carbon Democracy and Energy Transitions
-Alternative Economic Geographies
-- Modes of Production
-- The Need for Alternatives
-- Looking Beyond Capitalism
-Consumption and Retail
-- Consumption
-- Commodities and Retail
-- Global Cultures and Local Variations
-- Online Retailing
-Supplemental videos
-Each unit contains several videos that support ideas presented in the readings. Most videos are short clips explaining a concept or the application of a concept in the real world. These videos are housed in each unit in a folder called Videos. Please be sure to watch the videos and take notes as some content is not repeated in the lesson readings.
-Review quizzesEach graded quiz has an associated review quiz for you to use to prepare. It will be available for  you to take as many times as you need. The purpose of the review quiz is to help you assess (for yourself) what you have learned, to get accustomed to quiz questions, and to get used to taking  online quizzes in D2L. Review quizzes are not graded. Completing review quizzes can (and will) only help you on a graded quiz and will demonstrate to your instructor that you are interested in  learning the course material.
+COLLEGE WRITING EXTENDED
+FALL 2024
+COURSE DESCRIPTIONCollege Writing introduces students to the strategies and practices necessary to become a successful writer at the university level and beyond. As the required writing course for undergraduate students at Rutgers University–New Brunswick, College Writing challenges students to reflect upon and cultivate their strengths as readers and writers at this new stage of their educational careers. Students develop their critical reading abilities and written communication skills through meaningful writing projects of diverse genres, including multimodal composition.College Writing is required of all students except those who are exempt through AP credit or transfer equivalency. (The College Writing core curricular requirement may also be satisfied by successful completion of 355:103, “Exposition  Argument,” or 355:104, “College Writing Extended.”)COURSE OBJECTIVESThe overarching goal of the course is for students to develop habits of reading and writing that will allow them to respond successfully to the varied rhetorical challenges they will encounter in their future studies and in their lives beyond the university. Students will come to recognize the value of creativity and intellectual risk-taking in an interdisciplinary context while learning to appreciate writing as an instrument of critical thought as well as a means of communication.Students who successfully complete College Writing will be able to:Ø READ AS A WRITER. You will learn to identify different types of texts in relation to their purpose and audience. You will reflect on your own experiences as a reader and adapt writing strategies you encounter in your reading to make your own writing more effective.Ø JOIN THE CONVERSATION. You will learn productive and responsible ways to engage the ideas of others while developing your own understanding about complex issues. You will practice evaluating and responding to sources critically and will learn to use evidence thoughtfully and in service of developing your own arguments and areas of inquiry.Ø PRESENT IDEAS CREATIVELY. You will learn to consider the form. and structure of your written prose while also exploring the ways that images, videos, recorded sound, and other types of media can enrich the reader’s experience and convey ideas to a general audience.Ø APPROACH WRITING AS A PROCESS. You will learn to practice the strategies and habits of successful writers, including drafting, revising, and responding to feedback. You will develop perseverance and resilience in the face of challenging writing tasks and approach those challenges as a member of a community of writers.REQUIRED TEXTSStudents are not required to purchase a textbook for this course. All required reading will be provided in PDF format or hyperlink via Canvas. These materials will largely consist of the following:Ø Readings posted on our course Canvas site;Ø Grading rubric included in this syllabus and posted on our course Canvas site;Ø Select student essays as part of peer-review and in-class exercises;Ø Instructor comments on drafts.
+COURSE REQUIREMENTS — OVERVIEW
+Course Component
+Percentage of Final Course Grade
+Drafting, Revision,  Daily Assignments
+20%
+Project 1: Reflective Essay
+20%
+Project 2: Topic-Based Argumentative Essay
+20%
+Project 3: Argument Analysis
+15%
+Project 4: Multimodal Composition
+25%
+COURSE REQUIREMENTS — DETAILED BREAKDOWN DRAFTING, REVISION,  DAILY ASSIGNMENTS (20% of final course grade)Throughout the course, you will complete short idea-generating and reflective assignments as you work toward formal projects and as you develop your habits as a writer, which will lead to success in this and other courses. You will participate fully in the drafting and revision process for each assignment, much of which will take place during in-class time. Consistent attention to reading, analysis, drafting, and revision is needed to create a thoughtful and complex piece of writing. Developing regular practices for reading and writing will form. the basis of habits that will lead to success in this course and others.An important component of the revision process in this course is peer review. The primary goal of peer review is to serve as a collaborative practice whereby students learn to claim their own authority in the writing process. Students learn to reflect on their own writing by reading and responding to writing produced by their peers.
+FORMAL PROJECTS (80% of final course grade)The following is an overview of the four formal projects students will complete in the course throughout the semester. Each project will incorporate the course’s four primary objectives (“read as a writer”; “join the conversation”; “present ideas creatively”; “approach writing as a process”). Specific details regarding each project will be provided in advance.  
+PROJECT 1 Reflective Essay: Reading as a WriterFor your first writing project, you will write a reflective essay in response to an assigned reading. You will demonstrate a sophisticated understanding of the form. and rhetorical strategies of the assigned text as you practice writing strategies appropriate for intended text genre, audience, and purpose.
+(20% of final course grade)
+PROJECT 2 Argument Analysis: Exploring ComplexityFor your third writing project, you will analyze the interplay of ideas from an assigned text and then apply those analytical skills to a text you discover about a topic that interests you. You will create a visual representation of the complex arguments and areas of inquiry in your text that takes multiple perspectives into account and meaningfully contextualizes the topic. This analysis will serve as a foundation for Project 4.(15% of final course grade)
+PROJECT 3 Topic-Based Argumentative Essay: Joining the Conversation For your second writing project, you will respond to multiple assigned texts on a contemporary topic of interest. By synthesizing your understanding of these readings with your own experience, you will contribute to an ongoing conversation about a specific problem related to the broader topic. You will demonstrate an understanding of using sources and will practice, in particular, analysis, synthesis, summary, paraphrase, and the incorporation of quotations.(20% of final course grade)PROJECT 4 Multimodal Composition: Asking a Meaningful Question For your fourth writing project, you will propose and explore a question that you want to think about carefully before you graduate from college. You will conduct independent research and identify multiple sources that address your question as you enrich and contextualize your understanding of your topic. You will present your findings in a composition that incorporates images, video, and other media, and you will have the option to publish your project online.  (25% of final course grade) 
+GRADING SCALEThe following is the grading scale used by the Writing Program to evaluate the course requirements detailed above and to determine final course grades. The Writing Program’s complete evaluative rubric for formal projects is available at the end of this syllabus and on the course Canvas site.
+Level of AchievementAB+BC+CNon-passing
+Corresponding Numeric Grade Range90–10087–8980–8677–7970–7669  belowNote that this is a compressed version of the typical undergraduate grading scale to account for the fact that the Writing Program does not assign a grade of ‘D’ as a final course grade. Please note that students must submit ALL FOUR PROJECTS to pass College Writing. Additionally, please note the difference between the non-passing final grades of NC (No Credit) and F:The NC is a non-passing grade designation for students who have exhibited progress and consistent participation in their first-year writing course but have not yet attained the benchmark of a C grade. An NC grade allows a student to re-take the course the following semester without penalty to their GPA.The F is a non-passing grade designation for students who have stopped attending and/or failed to submit one or more formal projects. Unlike the NC grade, the F grade does factor into a student’s GPA. Students should consult their advising deans for additional information regarding replacing Fs in cumulative GPAs.GRADING POLICIES The following are additional College Writing grading policies:Ø You must submit final drafts of all four formal projects to pass the course.Ø The lowest passing grade for all formal projects and for the course is ‘C.’The following are policies regarding extensions and late submission of project final drafts:Ø All students may receive a no-questions-asked, two-day extension for the submission of ONE final draft. To receive this extension, you must email your instructor in advance of the due date.Ø Emergencies and obstacles do arise, so you should contact your instructor sooner rather than later if you have concerns about meeting deadlines.Ø Final drafts of projects submitted after their due date that have not received an extension will be subject to late penalties. In general, final drafts submitted up to one week after the deadline will receive a letter grade deduction, and final drafts submitted more than one week after the deadline will not be eligible for a passing grade.  
+GENERAL POLICIES
+ATTENDANCEAdvance completion of assigned readings, preparatory work, and participation in all class activities is required and will contribute directly to your “Drafting, Revision,  Daily Assignments” grade. All activities and their due dates will be posted in advance. After six missed class sessions and/or activities, you risk failing the class. Please note that the intensive nature of this course requires strong organization and time-management skills, and you are responsible for knowing what your assignments are and for completing them on time. (Resources regarding time-management skill development are available via the Rutgers Learning Centers.)
+CANVAS  TECHNOLOGY  Students will regularly check the course Canvas site and familiarize themselves with the features of Canvas and other online platforms used in course instruction. You will receive important course announcements through Canvas and at your Rutgers email address, so it is also important that you check that account regularly. All final projects must be submitted electronically via Canvas. Additionally, students are expected to have consistent and reliable access to the internet, so please reach out to discuss any potential technological limitations before they become problems.
+WRITING CENTER TUTORINGThe Writing Program offers FREE tutoring for students enrolled in College Writing, and I strongly encourage you to take advantage of this opportunity. Students who enroll in tutoring meet with the same tutor each week and have the opportunity to continue developing the skills required to succeed in this and other courses. Information about signing up for tutoring is available via the Rutgers Writing Centers website.
+DISCUSSION, OFFICE HOURS,  COLLEGIALITYDiscussion requires every student to challenge themselves by asking questions and offering observations, ideas, and arguments in response to one another and to the instructor. You are not expected to know all the answers in advance, and you should never be afraid to ask a question! You should also take advantage of office hours, which allow you to continue the conversations begun in class and to get one-on-one help with any challenges you may encounter. Additionally, your classmates are your colleagues: mutual respect will better enable us to discuss and develop diverse opinions and create a dynamic intellectual community.
+DROPPING COLLEGE WRITINGStudents may not drop College Writing from their course schedules. This is true both during the semester’s initial Add/Drop period and later when students may withdraw from other courses with a ‘W’. College Writing is a course that must be taken each semester until it is completed. In rare cases of verifiable emergency, the Director or Executive Director of the Writing Program may grant permission for students to withdraw from the course, but only before the withdrawal deadline. If you have experienced an emergency or other extenuating circumstance, please make an appointment with the Office of the Dean of Students – Student Support area. That office can document your emergency and direct you to the appropriate resources in the Writing Program and elsewhere in the University. Please note that contacting the Office of the Dean of Students will not automatically result in permission to drop College Writing. 
 
 
          
